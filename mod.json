@@ -1,6 +1,6 @@
 {
-    "name": "Revenant Fighter Ship Pad",
+    "name": "Russian HUD Optimization",
     "author": "BasedUser",
-    "description": "Adds the Revenant Fighter Ship Pad into the game.",
-    "version": "102.3"
+    "description": "Replaces \"Пластан\" with \"Пластиний\".",
+    "version": "104.10"
 }
